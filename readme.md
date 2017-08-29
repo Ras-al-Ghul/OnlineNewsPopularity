@@ -1,4 +1,4 @@
-#OnlineNewsPopularity
+# OnlineNewsPopularity
 Using Machine Learning techniques to determine the popularity of online news.  
 
 We've tried to implement and improvise upon the techniques implemented in this paper - <http://cs229.stanford.edu/proj2015/328_report.pdf>. The dataset we use is the `UCI's Online News Popularity dataset` - <https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity>  
